@@ -1,0 +1,23 @@
+[
+    {
+        "id": 11111,
+        "password": "00000",
+        "program": "Electronics Engineering",
+        "role": "Student",
+        "lugar": "vacio"
+    },
+    {
+        "id": 11111113,
+        "password": "00000",
+        "program": "Electronics Engineering",
+        "role": "Student",
+        "lugar": "vacio"
+    },
+    {
+        "id": "11111113",
+        "password": "00000",
+        "program": "Electronics Engineering",
+        "role": "Student",
+        "lugar": "vacio"
+    }
+]
