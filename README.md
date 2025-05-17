@@ -5,11 +5,10 @@ Desarrollado en Python, este software simplifica la tarea de registrar usuarios 
 A través de estos códigos, el acceso se valida y se asignan plazas en el estacionamiento de forma automatizada,
 diferenciando entre estudiantes y profesores. El sistema confirma que la información del usuario
 
-- se genera un  códigos QR encriptados utilizando métodos avanzados.
--  escaneo de codigos QR.
+- se genera un  códigos QR encriptados.
 - Utiliza  almacenamiento de datos en formato JSON.
 - llama el archivo parking_spaces.py
-- recibe los datos recibidos por parking server
+- recibe los datos recibidos por parking_server.py.
 - El registro verifica que el usuario no esté duplicado por id.
 - roles tienen espacios exclusivos (estudiantes y profesores).
 
